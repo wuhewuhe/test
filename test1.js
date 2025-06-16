@@ -1,2 +1,6 @@
 API_KEY=sk-proj-sampleuriofmddmfmjjkfllclllddffggg
 googlekey=AIzaSyAAERSrXStyHsU889OZGfrCFe1E2Bit
+
+API_KEY=sk-proj-sampleuriofmddmfmjjkfllclllddffggg
+googlekey=AIzaSyAAERSrXStyHsU889OZGfrCFe1E2Bit
+
